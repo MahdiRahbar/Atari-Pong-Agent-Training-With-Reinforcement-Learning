@@ -1,0 +1,6 @@
+In this repository, I shared the codes of pong training which I found very interesting working on. There is 3 python files. 
+- Demo.py: OpenAI's libraries such as Gym can help RL researchers so much by letting them not spend too much time on graphical modules and unrelated aspects of the project. So here we have the demo file that I have imported the gym's atari's game "Pong" in it and it's ready to run. (Note to have gym,atari and cmake libraries installed)
+- Pong.py is the main module. In this module we have different parts that I tried to seperate each. We have the RL Aglorithm section, our neural network and ... 
+- easy_tf_log.py is just a python file to help us get logs easier. You can just ignore it! 
+
+Enjoy... 
